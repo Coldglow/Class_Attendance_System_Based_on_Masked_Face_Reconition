@@ -1,0 +1,4 @@
+model_checkpoint_path: "model-20220227-201123.ckpt-200"
+all_model_checkpoint_paths: "model-20220227-201123.ckpt-198"
+all_model_checkpoint_paths: "model-20220227-201123.ckpt-199"
+all_model_checkpoint_paths: "model-20220227-201123.ckpt-200"
